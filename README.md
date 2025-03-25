@@ -35,27 +35,21 @@ cd teste
 2. Instalando as Dependências
 Instale as dependências necessárias utilizando o NPM ou Yarn:
 
-bash
-Copiar
-Editar
+
 npm install
 # ou
 yarn install
 3. Executando a Aplicação com Docker
 Se você deseja rodar a aplicação utilizando Docker, basta executar:
 
-bash
-Copiar
-Editar
+
 docker-compose up --build
 Isso irá configurar e iniciar a aplicação automaticamente.
 
 4. Executando Localmente
 Se preferir rodar a aplicação localmente sem Docker, utilize o comando:
 
-bash
-Copiar
-Editar
+
 npm run dev
 # ou
 yarn dev
@@ -64,9 +58,7 @@ Isso irá iniciar o servidor local em http://localhost:3000.
 Estrutura de Diretórios
 A estrutura de arquivos do projeto é a seguinte:
 
-python
-Copiar
-Editar
+
 > .next                    # Arquivos gerados pelo Next.js
 > img                       # Imagens utilizadas no projeto
 > node_modules              # Dependências do projeto
@@ -120,8 +112,6 @@ Se desejar contribuir para o projeto, fique à vontade para enviar pull requests
 Licença
 Este projeto é licenciado sob a MIT License.
 
-arduino
-Copiar
-Editar
+
 
 Esse README contém instruções claras de como configurar, rodar o projeto, uma descrição das funcionalidades, tecnologias utilizadas, e outras informações úteis sobre o andamento do desenvolvimento.
