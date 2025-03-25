@@ -1,0 +1,26 @@
+.cart-container {
+  padding: 20px;
+  background: #232323;
+  border-radius: 8px;
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.cart-item {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.cart-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+}
+
+.cart-total {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 22px;
+}
