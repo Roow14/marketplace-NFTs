@@ -30,7 +30,7 @@ Este projeto é um ecommerce desenvolvido utilizando Next.js, com a integração
 Clone este repositório em seu ambiente local:
 
 ```bash
-git clone https://github.com/Roow14/nft.git
+git clone https://github.com/Roow14/marketplace-NFTs.git
 cd teste
 2. Instalando as Dependências
 Instale as dependências necessárias utilizando o NPM ou Yarn:
